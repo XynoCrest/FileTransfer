@@ -1,0 +1,343 @@
+! 2023-11-12 https://www.reddit.com
+www.reddit.com##._24UNt1hkbrZxLzs5vkvuDh
+www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(1) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+www.reddit.com##.fuCmx3adjKY3tXA4Zfx2p._1j2O3iNM1HoiXK7B2dmp7b._3aof1UDvKACEvKW4EMZ299
+
+! 2023-11-12 https://www.flaticon.com
+www.flaticon.com###button_panel
+www.flaticon.com##.alignc.track.fullwidth.btn-warning.btn-download-pack.btn.bj-button
+www.flaticon.com###pack-lincense
+www.flaticon.com##.modal-download-pack--target.sidebar__download__buttons.mg-none.row--horizontal-center.row
+www.flaticon.com##.pd-top-lv2.sidebar__formats
+www.flaticon.com##.sidebar__download__others.mg-none.row
+www.flaticon.com##.banner-craft__container
+www.flaticon.com##.pd-bottom-lv3.pd-top-lv1
+www.flaticon.com##.btn-warning.bj-button.btn.btn-svg
+www.flaticon.com##.btn-warning.track.bj-button.tooltip__trigger--always.tooltip__trigger.copysvg--button
+www.flaticon.com##.tooltip--bottom.tooltip.detail__copysvg.btn-copy
+www.flaticon.com##.popover--download.popover-bottom.popover.not-mobile.btn-formats > .popover-container > .bj-button--link.bj-button.popover-button
+www.flaticon.com##.popover-not-close.popover-container > .bj-button--link.bj-button.popover-button
+www.flaticon.com##.font-sm.alignl.pd-lv3.modal-download-detail__content.modal-body > .mg-bottom-lv2.bold.font-md
+www.flaticon.com##p.mg-bottom-lv1:nth-of-type(2)
+www.flaticon.com##.modal-icon.track.mg-bottom-lv3.mg-top-lv3.bj-button--yellow.bj-button--flat.bj-button
+www.flaticon.com##p.mg-bottom-lv1:nth-of-type(3)
+www.flaticon.com##p.mg-bottom-lv1:nth-of-type(4)
+www.flaticon.com##p.mg-bottom-lv1:nth-of-type(5)
+www.flaticon.com##.track.bj-button--sm.bj-button--ghost.bj-button.popover-button
+www.flaticon.com##.link-pricing
+www.flaticon.com##.notification-center-menu-trigger
+www.flaticon.com##.shutterStock404-banner__container
+www.flaticon.com##.unicorn > section
+www.flaticon.com##.unicorn > header
+www.flaticon.com##.soul-p-nsba.hide-mobile.soul-a
+www.flaticon.com###bn-icon-list > .premium-autop
+www.flaticon.com###bn-icon-list
+www.flaticon.com##.footer__buttons.push-right > .mg-none.row > .bj-button--green.bj-button
+www.flaticon.com##.track.fi-not-premium.mg-left-lv2.bj-button--yellow.bj-button--flat.bj-button
+
+! 2023-11-14 https://d2l.ucalgary.ca
+d2l.ucalgary.ca##d2l-navigation-band
+d2l.ucalgary.ca###dvInner_SeriousTask
+d2l.ucalgary.ca###dvOuter
+
+! 2023-11-18 https://goplay.su
+goplay.su##div#indexannouncementhead:nth-of-type(2)
+
+! 2023-11-20 https://www.youtube.com
+www.youtube.com###foreground-content
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope > .ytd-rich-section-renderer.style-scope
+
+! 2023-11-20 https://www.studocu.com
+www.studocu.com##._e987ded4249c._f8ee41b9198f > ._b860d1a3bd30 > .download-button-1
+www.studocu.com##._dae30d2c1fc4 > ._ab2d8fe2e7e9 > ._98c724b266af
+
+! 2023-11-27 https://www.symbolab.com
+www.symbolab.com###back-to-school > a > svg > use
+www.symbolab.com###back-to-school > a > svg
+www.symbolab.com###save-as-bookmark > svg > use
+www.symbolab.com###save-as-bookmark > svg
+www.symbolab.com###right-section > .sign-in-button
+www.symbolab.com###send-us-feedback
+www.symbolab.com###join
+
+! 2023-11-27 https://www.wolframalpha.com
+www.wolframalpha.com##.dHzTdg.sc-83b9d75e-0.kPdgYi.cwjaCb.sc-34cb55e4-3.sc-34cb55e4-2._ZJzB._dGJe._3BQD
+www.wolframalpha.com##.fEGzVN.sc-6ab770a7-0.ZqxZk.cEWFiB.sc-34cb55e4-3.sc-34cb55e4-2.headerItem.grey53OrangeHoverNoBorderNoBg._3BQD
+www.wolframalpha.com##.ijfDjr.sc-83b9d75e-0.kPdgYi.cwjaCb.sc-34cb55e4-3.sc-34cb55e4-2._ZJzB._dGJe._3BQD
+www.wolframalpha.com##.lgJILy.sc-9c938e31-6
+
+! 2023-12-02 https://www.flaticon.com
+www.flaticon.com##.banner
+www.flaticon.com##.pd-none-i.modal__container
+www.flaticon.com##.modal-attribution__wrapper
+www.flaticon.com##.active.modal-attribution-detail.modal
+
+! 2023-12-04 https://www.studocu.com
+www.studocu.com##._f8ee41b9198f > ._b860d1a3bd30 > .download-button-1
+www.studocu.com##._8adad2abd238._6aafd4d7e772
+www.studocu.com##._fb305b8df31b._d98133f9738f
+
+! 2023-12-11 https://www.studocu.com
+www.studocu.com##._0464070431ae._5ad81b8ed9c5._de5966395683._9fcb6a94a9ec
+
+! 2023-12-18 https://www.studocu.com
+www.studocu.com##div._4d5ecd011027.banner-wrapper._8690b6fc16a3:nth-of-type(23)
+www.studocu.com##div._4d5ecd011027.banner-wrapper._8690b6fc16a3:nth-of-type(19)
+
+! 2023-12-22 https://www.reddit.com
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(2) > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+
+! 2023-12-30 https://www.unknowncheats.me
+www.unknowncheats.me###bab > table
+www.unknowncheats.me###Table1 > tbody > tr > .alt1
+
+! 2024-02-03 https://www.studocu.com
+www.studocu.com##._0464070431ae._5ad81b8ed9c5._9fcb6a94a9ec
+www.studocu.com##._0838fb325c04._95f5f1767857
+www.studocu.com##._f8ee41b9198f > ._bd6d12062c77 > div._d65c47103880 > ._3d15c6661ca8._164ca0962d90._c1ea3b047080._64f47aada6b9._b0af2422e3e4 > ._e19dee947055 > ._6f058dbc4ded._3babfe179939._9d7c3d02c0ce._9862b2b6a967
+www.studocu.com##._9c9d1a85dff4
+www.studocu.com##._93e2249fdda2
+www.studocu.com##._d4b35b1f34e1
+www.studocu.com##._a5f6c77fdd43
+www.studocu.com##._ca7aa647d12b
+www.studocu.com##p._6344d25e26de._71f12062a6c6
+www.studocu.com##._e8ed7581cbdb > ._6f058dbc4ded._b762866b4635._9862b2b6a967
+www.studocu.com##._34b01d828fcb._eda85dede64f._2414c8744158._6081aa8cf04b
+www.studocu.com##._e8a5b5732cbd._9e62ee6ec3e1
+
+! 2024-02-26 https://gemini.google.com
+gemini.google.com##upsell-button.ng-star-inserted
+
+! 2024-03-13 https://www.google.com
+www.google.com##.mWcf0e.MG7lrf > .LRZwuc.VfL2Y
+
+! 2024-03-23 https://piazza.com
+piazza.com###contribution_wrapper
+
+! 2024-03-29 https://dodi-repacks.site
+||dodi-repacks.site/wp-content/uploads/2024/01/1-1*.jpg$image
+||dodi-repacks.site/wp-content/uploads/2023/11/DODI2*.png$image
+||dodi-repacks.site/wp-content/uploads/2022/03/DODI-1*.png$image
+dodi-repacks.site###block-15
+dodi-repacks.site###block-3
+dodi-repacks.site###block-14
+
+! 2024-03-29 https://fitgirl-repacks.site
+||fitgirl-repacks.site/wp-content/uploads/2021/10/garold3.jpg$image
+fitgirl-repacks.site##.wp-image-33750.size-full
+
+! 2024-04-02 https://online-fix.me
+online-fix.me##tr
+online-fix.me##.clr.wide-block.full-story-header > font > font
+
+! 2024-04-26 https://www.waifu2x.net
+www.waifu2x.net##.dmm-games > ul > li
+www.waifu2x.net##.address.bottom-info
+
+! 2024-04-27 https://datanodes.to
+datanodes.to##div.text-sm.border-b.gap-4.items-center.flex
+datanodes.to##div.text-sm.gap-4.items-center.flex:nth-of-type(7)
+datanodes.to##.lg\:flex.lg\:max-w-none.overflow-hidden.my-12.shadow-sm.rounded-lg.mx-auto.max-w-lg
+datanodes.to##.mb-12.md\:flex-nowrap.gap-4.flex-wrap.flex
+datanodes.to##.md\:rounded-r-xl.md\:rounded-l-none.rounded-xl.bg-blue-600.md\:w-4\/12.p-6.gap-6.items-center.flex.w-full
+datanodes.to##.z-50.relative.px-4.py-6
+datanodes.to##.top-0.right-0.left-0.py-2.fixed.items-center.flex.z-50.header
+
+! 2024-04-27 https://datanodes.to
+datanodes.to##.md\:rounded-l-xl.md\:mb-0.mb-4.md\:rounded-r-none.rounded-xl.py-8.px-10.bg-gray-900.md\:w-8\/12.gap-4.items-center.md\:flex-nowrap.flex-wrap.flex.w-full
+datanodes.to##.md\:mb-0.mb-4.rounded-xl.py-8.px-10.bg-gray-900.md\:rounded-l-xl\>.md\:rounded-r-none.md\:w-8\/12.gap-4.items-center.md\:flex-nowrap.flex-wrap.flex.w-full
+
+! 2024-04-27 https://paste.fitgirl-repacks.site
+||paste.fitgirl-repacks.site/fakes.jpg$image
+paste.fitgirl-repacks.site###clicktheimagebelowfororiginalfitgirlrepackssite
+paste.fitgirl-repacks.site##section.container:nth-of-type(1)
+
+! 2024-04-27 https://emoji.gg
+emoji.gg##.angery-message
+
+! 2024-04-27 https://www.emailnator.com
+||www.emailnator.com/images/bg.webp?d106f605c767b21bd98d289ed67929cf$image
+www.emailnator.com###cookie-notice
+www.emailnator.com##.bg-primary.home--about
+www.emailnator.com##.mt-5.home--about
+www.emailnator.com##.footer
+www.emailnator.com##.arkose-AAAAA-AAAA-AAAA-AAAA-AAAAAAAA-wrapper
+
+! 2024-04-30 https://fitgirl-repacks.site
+||fitgirl-repacks.site/wp-content/uploads/2021/05/garold.jpg$image
+||fitgirl-repacks.site/wp-content/uploads/2022/08/paw.png$image
+fitgirl-repacks.site##.site-description
+fitgirl-repacks.site###menu-main-menu > .menu-item-1533.menu-item-object-page.menu-item-type-post_type.menu-item > [href="https://fitgirl-repacks.site/donations/"]
+fitgirl-repacks.site###custom_html-5
+fitgirl-repacks.site###custom_html-2
+fitgirl-repacks.site###custom_html-4
+fitgirl-repacks.site###jBnskDj9
+
+! 2024-05-03 https://online-fix.me
+online-fix.me##.text-center > .btn-small.btn-success.btn
+online-fix.me##a.sidebar-link:nth-of-type(3)
+
+! 2024-05-10 https://mapgenie.io
+mapgenie.io##.inset > .text-center
+mapgenie.io##.upgrade
+mapgenie.io###settings-section
+mapgenie.io##.subtitle
+mapgenie.io##.information.mb-3
+mapgenie.io##.free-user-locations-info
+
+! 2024-05-21 https://fitgirl-repacks.site
+fitgirl-repacks.site##.category-uncategorized.hentry.format-standard.status-publish.type-post.post.post-28715
+
+! May 24, 2024 https://www.youtube.com
+www.youtube.com###offer-module > .ytd-watch-next-secondary-results-renderer.style-scope
+
+! Jun 2, 2024 https://www.flaticon.com
+||fps.cdnpk.net/sponsor/istock/stockbanner/v2/EN.jpg$image
+
+! Jun 7, 2024 https://fmovies24.to
+||fmovies24.to/assets/_bnx/mangafire_7xx.gif$image
+
+! Jun 23, 2024 https://letterboxd.com
+letterboxd.com##.inner
+
+! Jul 28, 2024 https://dribbble.com
+dribbble.com##.visible.medium-screens-only.sticky-hire-widget.sticky-widget
+
+! Aug 17, 2024 https://www.clashofstats.com
+www.clashofstats.com##.grey-1.theme--dark.v-sheet.v-card > div > .c-cospl_uRJI4 > .adContainer_Y58xc
+www.clashofstats.com##.mb-4.pa-0.container > .c-cospl_uRJI4 > .adContainer_Y58xc
+www.clashofstats.com##.grey-1 > .c-cospl_uRJI4 > .adContainer_Y58xc
+
+! Aug 17, 2024 https://americanstylo.com
+||americanstylo.com/timer.gif$image
+americanstylo.com##.vertical-half-page
+americanstylo.com##.half-page-container-x
+americanstylo.com##.medium-rectangle-container
+americanstylo.com##.vertical-leaderboard
+americanstylo.com##div.card:nth-of-type(3)
+||americanstylo.com/safelink.png$image
+americanstylo.com##.menu-btn
+
+! Jan 8, 2025 https://routinehub.co
+routinehub.co##.slick-dotted.slick-slider.slick-initialized.home-list
+routinehub.co##hr:nth-of-type(1)
+
+! Jan 26, 2025 https://chatgpt.com
+chatgpt.com##.dark\:border-white\/20.empty\:hidden.py-2.flex-col.flex
+
+! Jan 26, 2025 https://claude.ai
+claude.ai##.px-2.translate-y-0
+claude.ai##.px-3.py-2.mx-2.mb-2.mt-1.rounded-lg.bg-accent-pro-900.border-accent-pro-200.border
+claude.ai##.grow.overflow-hidden.flex-col.flex > .text-xs
+
+! Jan 26, 2025 https://gemini.google.com
+gemini.google.com##location-footer.ng-star-inserted.hover-to-expand
+
+! Jan 26, 2025 https://fitgirl-repacks.site
+||fitgirl-repacks.site/wp-content/uploads$image
+
+! Jan 26, 2025 https://d2l.ucalgary.ca
+d2l.ucalgary.ca##div.d2l-page-message-container
+
+! Jan 29, 2025 https://chatgpt.com
+chatgpt.com##.\@lg\/thread\:w-full.\@lg\/thread\:left-0.\@lg\/thread\:bottom-8.\@lg\/thread\:absolute > .\@xl\/thread\:max-w-\[48rem\].\@lg\/thread\:max-w-\[40rem\].\@md\/thread\:max-w-3xl.\@lg\/thread\:justify-center.text-base.flex-col.w-full.h-full.flex.mx-auto
+
+! Jan 30, 2025 https://myanimelist.net
+myanimelist.net##.ga-impression.ga-click.btn-mal-service
+
+! Jan 30, 2025 https://www.fanatical.com
+www.fanatical.com##.small-usp-bar
+
+! Jan 31, 2025 https://www.instagram.com
+www.instagram.com##.x6bx242.x3hkoc4.x13vifvy.x1dr59a3
+
+! Feb 6, 2025 https://chatgpt.com
+chatgpt.com##.z-20.right-0.left-0.bottom-full.absolute
+
+! Feb 9, 2025 https://hianime.to
+hianime.to##.dt-comment
+
+! Feb 14, 2025 https://www.bing.com
+www.bing.com###langChange
+||rewards.bing.com/rewardscdn/images/rewards/membercenter/missions/Animated-Banners/RedeemCouponBanner1600x1600.png$image
+www.bing.com##.vs_cont
+rewards.bing.com##.center > .ng-scope.cardContainer
+
+! Mar 4, 2025 https://ww6.kissasian.video
+||ww6.kissasian.video/app/manga/themes/kissasian/assets/images/telegrame.gif$image
+
+! Mar 4, 2025 https://mydramalist.com
+mydramalist.com##[class*="is-desktop-ads-"]
+
+! Mar 4, 2025 https://www.perplexity.ai
+www.perplexity.ai##.bg-transparent.dark\:border-borderMainDark\/50.dark\:ring-borderMainDark\/50.dark\:divide-borderMainDark\/50.divide-borderMain\/50.ring-borderMain\/50.border-borderMain\/50.pb-sm.px-md
+
+! Mar 8, 2025 https://lucid.app
+lucid.app##.lucidchart-orange.compact.center
+
+! Mar 27, 2025 https://www.figma.com
+www.figma.com##.sidebar--section--COZVK
+
+! Mar 28, 2025 https://www.flaticon.com
+www.flaticon.com##.hero--section
+
+! Mar 31, 2025 https://www.figma.com
+www.figma.com##.mode_switcher_toggle--toggleWrapper--kHykz
+www.figma.com##.toolbelt_divider--divider--WazDM
+
+! Apr 5, 2025 https://claude.ai
+claude.ai##.select-none.text-text-500.bg-bg-300.sm\:text-sm.sm\:static.text-xs.text-center.px-2\.5.h-8.rounded-lg.gap-1\.5.items-center.inline-flex.ml-0\.5.top-3\.5.right-2.absolute
+
+! Apr 7, 2025 https://www.programiz.com
+www.programiz.com##.d-lg-flex.d-none.notice-bar-top--desktop.notice-bar-top
+www.programiz.com##.get-app-link-wrapper--closed-state.animated.get-app-link-wrapper
+
+! Apr 7, 2025 https://routinehub.co
+||assets.routinehub.co/file/routinehub/static/main/ads/2024/09/2409-code-your-own-shortcuts-black.gif$image
+
+! Apr 15, 2025 https://revoldiv.com
+revoldiv.com###warningMessage
+revoldiv.com###accessoryPanelContainer
+revoldiv.com###currentWaveForm
+! revoldiv.com###progress
+! revoldiv.com###svgWords
+
+! Apr 16, 2025 https://piazza.com
+piazza.com##.clearfix.p-2
+
+! Apr 17, 2025 https://chat.deepseek.com
+chat.deepseek.com##.a1e75851
+chat.deepseek.com##.da6cda9a.ds-icon
+chat.deepseek.com##._7941d9f._0fcaa63
+
+! Apr 19, 2025 https://python.langchain.com
+python.langchain.com##.announcementBar_mb4j
+
+! Apr 23, 2025 https://lpn.swi-prolog.org
+||lpn.swi-prolog.org/testing-version.png$image
+
+! Jun 11, 2025 https://chatgpt.com
+chatgpt.com##.dark\:hover\:bg-\[\#414071\].dark\:text-\[\#DCDBF6\].dark\:bg-\[\#373669\].hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].font-medium.text-sm.pe-3\.5.ps-3.py-1\.5.bg-\[\#F1F1FB\].rounded-full.gap-1\.5.items-center.flex
+
+! Jun 11, 2025 https://doubledouble.top
+doubledouble.top##.foot
+
+! Jun 12, 2025 https://www.amazon.ca
+www.amazon.ca##div.a-spacing-top-large.a-section:nth-of-type(5) > table > tbody > tr > td
+www.amazon.ca##div.a-spacing-top-large.a-section:nth-of-type(5)
+
+! Jun 12, 2025 https://chatgpt.com
+chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute
+
+! Jun 19, 2025 https://chatgpt.com
+chatgpt.com##.md\:w-full.md\:bottom-6.md\:start-0.md\:absolute.\[display\:var\(--display-hidden-until-loaded\,block\)\] > .px-\(--thread-content-margin\).\@\[72rem\]\:\[--thread-content-margin\:--spacing\(16\)\].\@\[37rem\]\:\[--thread-content-margin\:--spacing\(6\)\].\[--thread-content-margin\:--spacing\(4\)\].mx-auto.text-base
+
+! Jul 15, 2025 https://chatgpt.com
+chatgpt.com##.md\:px-\[60px\].text-xs.text-center.p-2.justify-center.items-center.w-full.min-h-8.flex.mt-auto.relative.text-token-text-secondary > div
+
+! Jul 24, 2025 https://chatgpt.com
+chatgpt.com##.text-xs.mb-0\.5.leading-dense.not-group-data-disabled\:text-token-text-tertiary > .truncate
+
+! Aug 8, 2025 https://chatgpt.com
+chatgpt.com##.rtl\:translate-x-1\/2.ltr\:-translate-x-1\/2.start-1\/2.absolute
